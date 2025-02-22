@@ -3,3 +3,7 @@ venv/
 
 #ignore pycache
 __pycache__/
+
+
+#ignore MacOs
+*.DS_Store
