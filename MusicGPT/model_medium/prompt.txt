@@ -1,0 +1,6 @@
+[01]
+{
+	"generate time":"4:06.267",
+	"prompt":"create a jazz, jazz instrument, blues, blues/jazz, relaxing, mellow, downtempo, calm music with only piano and cello".
+	"duration":"00:00:30.00"
+}
