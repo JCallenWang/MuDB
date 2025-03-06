@@ -1,0 +1,9 @@
+[01]
+{
+	"generate time":"",
+	"prompt":"create a jazz, jazz instrument, blues, blues/jazz, relaxing, mellow, downtempo, calm music with only piano and cello".
+	"duration":"00:01:56.00",
+	"model_version":v4,
+	"model":"ReMi lyrics model",
+	"Instrumental":true,
+}
