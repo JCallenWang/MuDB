@@ -1,0 +1,9 @@
+name: audiocraft_env
+channels:
+  - conda-forge
+  - defaults
+  
+dependencies:
+  - python=3.9.13
+  - ffmpeg
+  - git  # needed for git clone if Git is not separately installed
