@@ -7,3 +7,7 @@ __pycache__/
 
 #ignore MacOs
 *.DS_Store
+
+#ignore audiocraft env & repo
+Audiocraft/audiocraft_env/*
+Audiocraft/audiocraft_repo/
