@@ -11,3 +11,6 @@ __pycache__/
 #ignore audiocraft env & repo
 Audiocraft/audiocraft_env/*
 Audiocraft/audiocraft_repo/
+
+#ignoew generated audio
+Audiocraft/test*/
